@@ -8,14 +8,6 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_COPY_FILES += \
     vendor/nothing/Spacewar/proprietary/product/etc/permissions/telephony_product_privapp-permissions-qti.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/telephony_product_privapp-permissions-qti.xml \
     vendor/nothing/Spacewar/proprietary/system/etc/sysconfig/qti_whitelist.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/sysconfig/qti_whitelist.xml \
-    vendor/nothing/Spacewar/proprietary/system/lib/liblhdc.so:$(TARGET_COPY_OUT_SYSTEM)/lib/liblhdc.so \
-    vendor/nothing/Spacewar/proprietary/system/lib/liblhdcBT_enc.so:$(TARGET_COPY_OUT_SYSTEM)/lib/liblhdcBT_enc.so \
-    vendor/nothing/Spacewar/proprietary/system/lib/liblhdcv5.so:$(TARGET_COPY_OUT_SYSTEM)/lib/liblhdcv5.so \
-    vendor/nothing/Spacewar/proprietary/system/lib/liblhdcv5BT_enc.so:$(TARGET_COPY_OUT_SYSTEM)/lib/liblhdcv5BT_enc.so \
-    vendor/nothing/Spacewar/proprietary/system/lib64/liblhdc.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/liblhdc.so \
-    vendor/nothing/Spacewar/proprietary/system/lib64/liblhdcBT_enc.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/liblhdcBT_enc.so \
-    vendor/nothing/Spacewar/proprietary/system/lib64/liblhdcv5.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/liblhdcv5.so \
-    vendor/nothing/Spacewar/proprietary/system/lib64/liblhdcv5BT_enc.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/liblhdcv5BT_enc.so \
     vendor/nothing/Spacewar/proprietary/system_ext/bin/dpmd:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/dpmd \
     vendor/nothing/Spacewar/proprietary/system_ext/bin/tcmd:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/tcmd \
     vendor/nothing/Spacewar/proprietary/system_ext/bin/wfdservice:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/wfdservice \
