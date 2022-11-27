@@ -376,6 +376,7 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/Spacewar/proprietary/vendor/etc/lvacfs_params/4mic/LVIMFS_Parameter_xxxx_ID4_MIC_Cam_back.txt:$(TARGET_COPY_OUT_VENDOR)/etc/lvacfs_params/4mic/LVIMFS_Parameter_xxxx_ID4_MIC_Cam_back.txt \
     vendor/nothing/Spacewar/proprietary/vendor/etc/lvacfs_params/4mic/audiozoom_13.txt:$(TARGET_COPY_OUT_VENDOR)/etc/lvacfs_params/4mic/audiozoom_13.txt \
     vendor/nothing/Spacewar/proprietary/vendor/etc/lvacfs_params/4mic/audiozoom_4.txt:$(TARGET_COPY_OUT_VENDOR)/etc/lvacfs_params/4mic/audiozoom_4.txt \
+    vendor/nothing/Spacewar/proprietary/vendor/etc/media/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media/video_system_specs.json \
     vendor/nothing/Spacewar/proprietary/vendor/etc/media_codecs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs.xml \
     vendor/nothing/Spacewar/proprietary/vendor/etc/media_codecs_performance.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance.xml \
     vendor/nothing/Spacewar/proprietary/vendor/etc/media_codecs_performance_yupik_v0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_yupik_v0.xml \
@@ -388,6 +389,8 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/Spacewar/proprietary/vendor/etc/media_profiles_vendor.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_vendor.xml \
     vendor/nothing/Spacewar/proprietary/vendor/etc/media_profiles_yupik_v0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_yupik_v0.xml \
     vendor/nothing/Spacewar/proprietary/vendor/etc/media_profiles_yupik_v1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_yupik_v1.xml \
+    vendor/nothing/Spacewar/proprietary/vendor/etc/media_yupik_v0/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_yupik_v0/video_system_specs.json \
+    vendor/nothing/Spacewar/proprietary/vendor/etc/media_yupik_v1/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_yupik_v1/video_system_specs.json \
     vendor/nothing/Spacewar/proprietary/vendor/etc/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths.xml \
     vendor/nothing/Spacewar/proprietary/vendor/etc/mixer_paths_qrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_qrd.xml \
     vendor/nothing/Spacewar/proprietary/vendor/etc/msm_irqbalance.conf:$(TARGET_COPY_OUT_VENDOR)/etc/msm_irqbalance.conf \
