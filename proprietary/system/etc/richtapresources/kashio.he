@@ -1,0 +1,102 @@
+{
+    "Metadata": {
+        "Version": 2,
+        "Created": "2022-05-07",
+        "Description": "Exported from RichTap Creator Editor InnerTest"
+    },
+    "PatternList": [
+        {
+            "AbsoluteTime": 46,
+            "Pattern": [
+                {
+                    "Event": {
+                        "Type": "transient",
+                        "RelativeTime": 0,
+                        "Parameters": {
+                            "Intensity": 100,
+                            "Frequency": 55
+                        },
+                        "Index": 0
+                    }
+                },
+                {
+                    "Event": {
+                        "Type": "transient",
+                        "RelativeTime": 242,
+                        "Parameters": {
+                            "Intensity": 100,
+                            "Frequency": 55
+                        },
+                        "Index": 0
+                    }
+                },
+                {
+                    "Event": {
+                        "Type": "transient",
+                        "RelativeTime": 1099,
+                        "Parameters": {
+                            "Intensity": 100,
+                            "Frequency": 55
+                        },
+                        "Index": 0
+                    }
+                },
+                {
+                    "Event": {
+                        "Type": "transient",
+                        "RelativeTime": 1344,
+                        "Parameters": {
+                            "Intensity": 100,
+                            "Frequency": 55
+                        },
+                        "Index": 0
+                    }
+                },
+                {
+                    "Event": {
+                        "Type": "transient",
+                        "RelativeTime": 2184,
+                        "Parameters": {
+                            "Intensity": 100,
+                            "Frequency": 55
+                        },
+                        "Index": 0
+                    }
+                },
+                {
+                    "Event": {
+                        "Type": "transient",
+                        "RelativeTime": 2429,
+                        "Parameters": {
+                            "Intensity": 100,
+                            "Frequency": 55
+                        },
+                        "Index": 0
+                    }
+                },
+                {
+                    "Event": {
+                        "Type": "transient",
+                        "RelativeTime": 3277,
+                        "Parameters": {
+                            "Intensity": 100,
+                            "Frequency": 55
+                        },
+                        "Index": 0
+                    }
+                },
+                {
+                    "Event": {
+                        "Type": "transient",
+                        "RelativeTime": 3514,
+                        "Parameters": {
+                            "Intensity": 100,
+                            "Frequency": 55
+                        },
+                        "Index": 0
+                    }
+                }
+            ]
+        }
+    ]
+}
