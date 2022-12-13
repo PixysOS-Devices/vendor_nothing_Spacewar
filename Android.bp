@@ -232,13 +232,6 @@ dex_import {
 }
 
 dex_import {
-	name: "audiosphere",
-	owner: "nothing",
-	jars: ["proprietary/system_ext/framework/audiosphere.jar"],
-	system_ext_specific: true,
-}
-
-dex_import {
 	name: "com.android.hotwordenrollment.common.util",
 	owner: "nothing",
 	jars: ["proprietary/system_ext/framework/com.android.hotwordenrollment.common.util.jar"],
