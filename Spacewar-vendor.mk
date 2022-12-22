@@ -712,6 +712,11 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/Spacewar/proprietary/vendor/firmware/ipa_fws.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b04 \
     vendor/nothing/Spacewar/proprietary/vendor/firmware/ipa_fws.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.elf \
     vendor/nothing/Spacewar/proprietary/vendor/firmware/ipa_fws.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.mdt \
+    vendor/nothing/Spacewar/proprietary/vendor/firmware/msbtfw10.tlv:$(TARGET_COPY_OUT_VENDOR)/firmware/msbtfw10.tlv \
+    vendor/nothing/Spacewar/proprietary/vendor/firmware/msbtfw11.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/msbtfw11.mbn \
+    vendor/nothing/Spacewar/proprietary/vendor/firmware/msbtfw11.tlv:$(TARGET_COPY_OUT_VENDOR)/firmware/msbtfw11.tlv \
+    vendor/nothing/Spacewar/proprietary/vendor/firmware/msnv10.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/msnv10.bin \
+    vendor/nothing/Spacewar/proprietary/vendor/firmware/msnv11.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/msnv11.bin \
     vendor/nothing/Spacewar/proprietary/vendor/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_VENDOR)/firmware/tfa98xx.cnt \
     vendor/nothing/Spacewar/proprietary/vendor/firmware/vpu20_1v.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_1v.b01 \
     vendor/nothing/Spacewar/proprietary/vendor/firmware/vpu20_1v.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_1v.b02 \
